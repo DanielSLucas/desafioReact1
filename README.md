@@ -1,4 +1,4 @@
-# Desafio Node 1
+# Desafio React 1
 
 Primeiro Desafio de react no curso GoStack.
 
